@@ -16,6 +16,7 @@ Algorithm describtion
 >5. If a point other than center is the best matching point,
 >
 >   Select this point as the new center
+>
 >   Repeat steps 2 to 3
 >
 >6. If the best matching point is at the center, set S = S/2
