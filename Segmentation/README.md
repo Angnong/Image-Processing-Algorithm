@@ -9,7 +9,7 @@ use Lena image as an example
 ![Input image](https://github.com/Angnong/Image-Processing-Algorithm/blob/master/Segmentation/images/lena.png)
 
 choose any point in face region by clicking
-
+get result as below
 ![Segmented result](https://github.com/Angnong/Image-Processing-Algorithm/blob/master/Segmentation/images/segment_lena.png)
 
 ## Watershed
