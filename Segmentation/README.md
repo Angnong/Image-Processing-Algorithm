@@ -8,6 +8,6 @@ use Lena image as an example
 
 choose any point in face region
 
-![segmented image](https://github.com/Angnong/Image-Processing-Algorithm/blob/master/Segmentation/images/segment_lena.png)
+
 
 ## Watershed
