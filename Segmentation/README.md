@@ -3,9 +3,11 @@ This file is for segmentation methods
 
 ## Region Growing
 use Lena image as an example
-![Input image](/images/lena.png)
+
+![Input image](https://github.com/Angnong/Image-Processing-Algorithm/blob/master/Segmentation/images/lena.png)
 
 choose any point in face region
-![segmented image](/images/segment_lena.png)
+
+![segmented image](https://github.com/Angnong/Image-Processing-Algorithm/blob/master/Segmentation/images/segment_lena.png)
 
 ## Watershed
