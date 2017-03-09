@@ -11,6 +11,7 @@ use Lena image as an example
 choose any point in face region by clicking
 
 get result as below
+
 ![Segmented result](https://github.com/Angnong/Image-Processing-Algorithm/blob/master/Segmentation/images/segment_lena.png)
 
 ## Watershed
